@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Hank Quinlan, Horrible Cop, Launches Site"
-date: 2014-04-30
+title: "Site Launched!"
+date: 2020-01-17
 ---
 
-Well. Finally got around to putting this old website together. Neat thing about it - powered by [Jekyll](http://jekyllrb.com) and I can use Markdown to author my posts. It actually is a lot easier than I thought it was going to be.
+The team at SmartSnipe has officially launched a website! We will constantly be blogging about what exciting stuff we are working on as we revolutionize how hockey players train. We can't wait to keep you updated and in the loop about what we are working on!
